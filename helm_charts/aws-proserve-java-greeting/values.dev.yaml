@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: xxxxxxxx.dkr.ecr.us-east-2.amazonaws.com/aws-proserve-java-docker
+  repository: 364832466419.dkr.ecr.us-east-1.amazonaws.com/aws-codepipeline-devsecops-eks
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
